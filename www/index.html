@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Event Reporting</title>
+        <link rel="stylesheet" href="style.css">
+        </head>
+    <body>
+        <h1>Event Reporting App</h1>
+        <nav>
+            <button onclick="showSection('report')">Report Event</button>
+            <button onclick="showSection('list')">View Reports</button>
+        </nav>
+
+            <section class="event-section">
+                <h2>Annual Tech Meetup</h2>
+                <p>Location: Lagos Tech Hub</p>
+                <button class="btn" onclick="showRSVPDialog()">RSVP For Event</button>
+            </section>
+
+        <section id="report-section">
+            <form id="EventForm">
+                <label>Title:</label>
+                <input type="text" id="title" required>
+
+                <label>Description:</label>
+                <textarea id="description" required></textarea>
+
+                <label>Location:</label>
+                <input type="text" id="location" required>
+
+                <label>Date:</label>
+                <input type="date" id="date" required>
+
+                <button type="submit">Submit Report</button> 
+            </form>
+        </section>
+
+        <section id="list-section" style="display:none;">
+
+        <h2>Submitted Reports</h2>
+        <ul id="reportList"></ul>
+        </section>
+
+        <script>
+    function showRSVPDialog() {
+        const userConfirmed = confirm("Are you sure you want to RSVP for this event?");
+        if (userConfirmed) {
+            alert("Thanks for RSVPing! 🎉");
+        } else {
+            alert("Maybe next time! 😊");
+        }
+    }
+    </script>
+
+        <script src="script.js"></script>
+
+    </body>
+</html>
