@@ -34,7 +34,7 @@ view a list of reports in an easy-to-use mobile interface.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TurahRae/eventapp.git
+   https://github.com/TurahRae/Event-App.git
   
 2. Navigate to the project:
       cd eventapp
