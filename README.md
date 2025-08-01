@@ -1,3 +1,8 @@
+![Built with Cordova](https://img.shields.io/badge/Built%20with-Cordova-blue)
+![Platform - Android](https://img.shields.io/badge/Platform-Android-green)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 # Event Reporting Mobile App
 
 A mobile event reporting app with RSVP functionality, built using **Apache Cordova**. 
