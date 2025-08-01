@@ -39,10 +39,10 @@ view a list of reports in an easy-to-use mobile interface.
 2. Navigate to the project:
       cd eventapp
 
-3. Add the platform
+3. Add the platform:
        cordova add platform android
 
-4. Build the App
+4. Build the App:
        cordova build android
 
 5. APK can be found in platforms/android/app/build/outputs/apk/debug/app-debug.apk
