@@ -52,4 +52,4 @@ view a list of reports in an easy-to-use mobile interface.
 
 ## 👩‍💻 Author
 Mistura Ishola (Turah Rae)
-GitHub
+[GitHub](https://github.com/TurahRae)
