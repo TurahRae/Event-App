@@ -20,7 +20,7 @@ view a list of reports in an easy-to-use mobile interface.
 ## 📱 Platform
 
 - Android (built and tested)
-- iOS (not yet deployed)
+  
 
 ## 🧩 Cordova Plugins Used
 
@@ -54,7 +54,6 @@ view a list of reports in an easy-to-use mobile interface.
    cordova build android
 
 5. APK can be found in platforms/android/app/build/outputs/apk/debug/app-debug.apk
-
 
 ------
 
