@@ -42,13 +42,16 @@ view a list of reports in an easy-to-use mobile interface.
    https://github.com/TurahRae/Event-App.git
   
 2. Navigate to the project:
-      cd eventapp
+   ```bash
+   cd eventapp
 
 3. Add the platform:
-       cordova add platform android
+  ```bash
+   cordova add platform android
 
 4. Build the App:
-       cordova build android
+   ```bash
+   cordova build android
 
 5. APK can be found in platforms/android/app/build/outputs/apk/debug/app-debug.apk
 
