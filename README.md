@@ -46,16 +46,17 @@ view a list of reports in an easy-to-use mobile interface.
    cd eventapp
 
 3. Add the platform:
-  ```bash
+   ```bash
    cordova add platform android
 
 4. Build the App:
-   ```bash
+    ```bash
    cordova build android
 
 5. APK can be found in platforms/android/app/build/outputs/apk/debug/app-debug.apk
 
-------
+
+
 
 ## 👩‍💻 Author
 Mistura Ishola (Turah Rae)
