@@ -58,6 +58,8 @@ view a list of reports in an easy-to-use mobile interface.
 
 
 
-## 👩‍💻 Author
-Mistura Ishola (Turah Rae)
-[GitHub](https://github.com/TurahRae) | [LinkedIn](https://www.linkedin.com/in/mistura-ishola-8ab987140)
+## Developer
+**Mistura Ishola**
+
+Connect with me: [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
+
