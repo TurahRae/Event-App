@@ -9,7 +9,7 @@ A mobile event reporting app with RSVP functionality, built using **Cordova**.
 This app allows users to report events, RSVP to upcoming events and 
 view a list of reports in an easy-to-use mobile interface.
 
-## 🚀 Features
+## Features
 
 - Event reporting form with validation
 - RSVP to specific events
@@ -17,25 +17,25 @@ view a list of reports in an easy-to-use mobile interface.
 - Simple and responsive UI
 - Built with Cordova for Android deployment
 
-## 📱 Platform
+## Platform
 
 - Android (built and tested)
   
 
-## 🧩 Cordova Plugins Used
+## Cordova Plugins Used
 
 - `cordova-plugin-whitelist`
 - `cordova-plugin-statusbar`
 - `cordova-plugin-splashscreen`
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- Apache Cordova
+- Cordova
 
-## 📦 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
@@ -59,6 +59,7 @@ view a list of reports in an easy-to-use mobile interface.
 
 
 ## Developer
+
 **Mistura Ishola**
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
