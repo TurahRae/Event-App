@@ -5,7 +5,7 @@
 
 # Event Reporting Mobile App
 
-A mobile event reporting app with RSVP functionality, built using **Apache Cordova**. 
+A mobile event reporting app with RSVP functionality, built using **Cordova**. 
 This app allows users to report events, RSVP to upcoming events and 
 view a list of reports in an easy-to-use mobile interface.
 
